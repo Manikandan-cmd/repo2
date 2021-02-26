@@ -1,3 +1,3 @@
-#Demo Git
+# Counting cards
 
-    Learning Git            
+    Learning Javascript            
