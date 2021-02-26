@@ -1,3 +1,6 @@
 # Counting cards
 
-    Learning Javascript            
+    Learning Javascript  
+
+    ##Counting cards
+    ##Using Objects for lookups          
