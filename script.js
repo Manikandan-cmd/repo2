@@ -26,3 +26,4 @@ function cc(card) {
     }
 
 }
+console.log(cc("K" + "K"));
