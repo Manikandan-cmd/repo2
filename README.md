@@ -2,5 +2,5 @@
 
     Learning Javascript  
 
-    ##Counting cards
-    ##Using Objects for lookups          
+    ## Counting cards
+    ## Using Objects for lookups          
